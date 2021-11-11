@@ -1,4 +1,4 @@
-Fully read & write byte arrays.
+> Fully read & write byte arrays.
 
 ## Example array that can be read
 b"\xc7\x65\xf1\xd4\xff\xff\xff\xff\x01\x8c\x8a\x25\x3f\x80\x00\x00\x20"
